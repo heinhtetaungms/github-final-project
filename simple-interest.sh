@@ -15,6 +15,7 @@
 
    # Output:
    # simple interest = p*t*r
+   # sample purpose for pull request
 
    echo "Enter the principal:"
    read p
